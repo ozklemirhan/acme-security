@@ -8,10 +8,9 @@ assignees: ''
 
 ## 👤 Candidate Information
 
-**Full Name:** 
-**Email:** 
+**Emirhan öZKUL:** 
+**ozklemirhan@gmail.com:** 
 **LinkedIn:** _(optional)_
-**Location:** _(optional)_
 **Submission Date:** 
 
 ---
@@ -19,23 +18,23 @@ assignees: ''
 ## 📎 Submission Files
 
 **Option A: Attached Files**
-- Report PDF: [Attach here]
-- Video link: 
+- Report PDF: https://github.com/user-attachments/files/23443744/Document.8.1.docx
+- Video link: https://drive.google.com/file/d/1VMabiFtMLFSXS-r_lATKRseJKQ8Baiqa/view?usp=drivesdk
 
 **Option B: External Links**
-- Report: [Google Drive / Dropbox link]
-- Video: [YouTube / Vimeo / Loom link]
+- Report: [[Google Drive / Dropbox link]](https://github.com/user-attachments/files/23443744/Document.8.1.docx)
+- Video: [[YouTube / Vimeo / Loom link]](https://drive.google.com/file/d/1VMabiFtMLFSXS-r_lATKRseJKQ8Baiqa/view?usp=drivesdk)
 
 ---
 
 ## ⏱️ Time Tracking
 
-**Total time spent:** ___ hours
+**Total time spent:** 3 hours
 
 **Breakdown:**
-- Log analysis: ___ hours
+- Log analysis: 2  hours
 - Architecture design: ___ hours
-- Report writing: ___ hours
+- Report writing: 1 hours
 - Video creation: ___ hours
 
 ---
@@ -43,9 +42,9 @@ assignees: ''
 ## 🎯 Summary
 
 ### Attack Vectors Identified
-1. 
-2. 
-3. 
+1. Phishing
+2. SQL Enjeksiyon
+3. IDOR
 
 ### Key Findings
 - 
@@ -53,9 +52,9 @@ assignees: ''
 - 
 
 ### Top 3 Recommendations
-1. 
-2. 
-3. 
+1. end-user security
+2. MFA
+3. WAF EDR korelasyonu
 
 ---
 
@@ -79,15 +78,15 @@ assignees: ''
 
 Please confirm:
 
-- [ ] Report is max 5 pages
-- [ ] Video is 10-15 minutes
-- [ ] All log files were analyzed
-- [ ] Timeline is timezone-corrected
-- [ ] Framework mappings included (ISO 27001, NIST, OWASP)
-- [ ] Architecture diagram included
-- [ ] Video link is tested and working
-- [ ] No plagiarism / proper attribution
-- [ ] Original work, not AI-generated
+- [X ] Report is max 5 pages
+- [ X] Video is 10-15 minutes
+- [ X] All log files were analyzed
+- [ X] Timeline is timezone-corrected
+- [ X] Framework mappings included (ISO 27001, NIST, OWASP)
+- [ X] Architecture diagram included
+- [ X] Video link is tested and working
+- [ X] No plagiarism / proper attribution
+- [ X] Original work, not AI-generated
 
 ---
 
@@ -100,7 +99,7 @@ Please confirm:
 
 
 **Would you recommend this to others?**
-- [ ] Yes
+- [ x] Yes
 - [ ] No
 - [ ] Maybe
 
@@ -109,8 +108,8 @@ Please confirm:
 ## 📧 Contact Preference
 
 **Preferred contact method:**
-- [ ] Email
-- [ ] LinkedIn
+- [ X] Email
+- [ X] LinkedIn
 - [ ] GitHub
 
 **Best time to reach you:**
@@ -122,8 +121,8 @@ Please confirm:
 
 I declare that this submission is my original work and I have followed all guidelines.
 
-**Name:** 
-**Date:** 
+**Name:**Emirhan ÖZKUL 
+**Date:** 2025-11-10
 
 ---
 
