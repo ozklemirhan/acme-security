@@ -47,9 +47,9 @@ assignees: ''
 3. IDOR
 
 ### Key Findings
-- 
-- 
-- 
+- Massive Data Leakage via Broken Access Control (IDOR)
+- Inconsistent and Ineffective WAF Blocking Mechanism
+- SQL Injection (SQLi)
 
 ### Top 3 Recommendations
 1. end-user security
@@ -93,10 +93,10 @@ Please confirm:
 ## 💬 Optional Feedback
 
 **What did you think of this lab?**
-
+Yes
 
 **Any suggestions for improvement?**
-
+No
 
 **Would you recommend this to others?**
 - [ x] Yes
